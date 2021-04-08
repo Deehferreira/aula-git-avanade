@@ -7,7 +7,7 @@ cd  aula-git-avanade/ entra na pasta
 
 code . enter vai pro VsCode
 
-git status para verificar o estatus
+git status para verificar o estatus se teve modificação.
 
 git add . para adicionar a lista de modificados.
 
@@ -15,3 +15,5 @@ git commit -m "alteração"
 nao esquecer do -m
 
 git push origin main
+
+não esquecer de salva as alteraçãoS
