@@ -1,1 +1,17 @@
 Bem-vindos à aula de hoje!
+
+git clone https://github.com/Deehferreira/aula-git-avanade.git
+ele clona o https
+
+cd  aula-git-avanade/ entra na pasta
+
+code . enter vai pro VsCode
+
+git status para verificar o estatus
+
+git add . para adicionar a lista de modificados.
+
+git commit -m "alteração" 
+nao esquecer do -m
+
+git push origin main
